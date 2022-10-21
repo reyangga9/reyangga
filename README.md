@@ -4,14 +4,12 @@
   <h1>Hi Everyone:wave:, My name is Angga  </h1>
 </div>
 
+## :hatching_chick: About Me
 <div>
-I'm bachelor of  Informatics Engineering. 
+I'm bachelor of  Informatics Engineering. Soon to be Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and 
+currently Learning React Developer in Digitalent <img src="https://d1fdloi71mui9q.cloudfront.net/7Y6QnEQmQMecN5kMUE8Y_Logo%20LinktreeIcon-.png" width="30">   
 </div>
 
-## :hatching_chick: About Me
-<ul>
-<li>I'm currently learning to be Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</li>
-<li>i'm currently learning React Developer in Digitalent <img src="https://d1fdloi71mui9q.cloudfront.net/7Y6QnEQmQMecN5kMUE8Y_Logo%20LinktreeIcon-.png" width="30">   </li>
 
 
 
