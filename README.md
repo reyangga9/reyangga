@@ -6,8 +6,7 @@
 
 ## :hatching_chick: About Me
 <div>
-I'm bachelor of  Informatics Engineering. Soon to be Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and 
-currently Learning React Developer in Digitalent <img src="https://d1fdloi71mui9q.cloudfront.net/7Y6QnEQmQMecN5kMUE8Y_Logo%20LinktreeIcon-.png" width="30">   
+Front end developer and soon become Full-Stack Developer 
 </div>
 
 
